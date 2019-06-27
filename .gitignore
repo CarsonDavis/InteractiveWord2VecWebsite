@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+*.ipynb
+*.vscode
+__pycache__/
+local_settings.py
+/static
+/media
+db.sqlite3
+myprojectenv*
+w2v/word2vec_functions/Trained Models/*
+w2v/word2vec_functions/Raw Data/*
+w2v/word2vec_functions/Processed Training Data/*
